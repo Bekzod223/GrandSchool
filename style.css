@@ -1,0 +1,563 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+
+.navbar{
+    background-color: rgba(24, 69, 134, 1);
+    color: white;
+}
+
+.logo{
+    width: 70px;
+    background-color: white;
+    border-radius: 53px;
+}
+
+.dropdown .menu{
+    color: black;
+}
+
+.navbar-end{
+    font-size: 20px;
+}
+.navbar-end a:hover{
+    color: yellow;
+}
+
+.p-2 a{
+    color: black;
+}
+
+.header{
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.out{
+    color: white;
+}
+
+ .about{
+    position: relative;
+    bottom: 430px;
+    float: right;
+    width: 700px;
+    margin-right: 300px;
+}
+
+.about h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.utube iframe{
+    width:704px ;
+    height:454px;
+    margin-left: 100px;
+}
+
+
+.section3{
+    height: 600px;
+
+}
+
+.section3 h1{
+    font-size: 30px;
+    position: relative;
+    top: 130px;
+    left: 600px;
+    font-weight: 600;
+}
+
+.swwiper {
+    width: 1400px;
+    margin: 30px 300px;
+}
+
+.swwiper svg{
+    width: 300px;
+}
+
+.out{
+    width: 100%;
+    position: absolute;
+    bottom: 200px;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: black;
+    margin-left: 450px;
+}
+
+.homepage, .homepage .videoo{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: 50% !important;
+    height: 700px;
+    object-fit: cover;
+}
+
+.out h1{
+    font-size: 40px;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.out button{
+    border: 2px yellow solid;
+    border-radius: 50px;
+    height: 48px;
+    width: 226px;
+    background-color: blue;
+    color: white;
+}
+.out button:hover{
+    background-color: yellow;
+    border: white 2px solid;
+    color: blue;
+    transition: all ease 0.7s;
+}
+
+.section4{
+    height: 600px;
+}
+.page4{
+    display: flex;
+    margin: 30px 200px;
+}
+
+
+.swiper swiper-container{
+    width: 500px;
+    height: 300px;
+}
+
+
+.tour{
+    font-size: 34px;
+}
+
+
+.calendar{
+    margin-left: 290px;
+    margin-top: 30px;
+    display: flex;
+}
+
+.calendar2{
+    margin: 40px 290px;
+    display: flex;
+}
+
+.event-calendar h1 {
+    font-size: 34px;
+    margin-left: 420px;
+}
+
+.quad1{
+    border: 2px solid 
+    rgba(24, 69, 134, 1);
+    height: 65px;
+    width: 74px;
+    position: relative;
+    margin-right: 10px;
+}
+.quad1 p{
+    position: relative;
+    top: 17px;
+    left: 5px;
+}
+
+.cal1{
+    display: flex;
+    width: 300px;
+}
+
+.cal2{
+    display: flex;
+}
+
+.quad2{
+    border: 2px solid 
+    rgba(24, 69, 134, 1);
+    height: 65px;
+    width: 74px;
+    position: relative;
+    margin-right: 10px;
+}
+.quad2 p{
+    position: relative;
+    top: 17px;
+    left: 13px;
+}
+
+.text2, .text3, .text4, .text1{
+    text-align: center;
+}
+
+.quad3{
+    border: 2px solid 
+    rgba(24, 69, 134, 1);
+    height: 65px;
+    width: 74px;
+    position: relative;
+    margin-right: 10px;
+}
+.quad3 p{
+    position: relative;
+    top: 17px;
+    left: 2px;
+}
+
+.cal3{
+    display: flex;
+    width: 300px;
+}
+
+.cal4{
+    display: flex;
+    width: 250px;
+    
+}
+
+.quad4{
+    border: 2px solid 
+    rgba(24, 69, 134, 1);
+    height: 65px;
+    width: 74px;
+    position: relative;
+    margin-right: 10px;
+}
+.quad4 p{
+    position: relative;
+    top: 17px;
+    left: 5px;
+}
+
+
+
+.event-calendar button{
+    border: 2px rgba(24, 69, 134, 1) solid;
+    border-radius: 50px;
+    width: 264px;
+    height: 46px;
+    margin-left: 400px;
+    color: 
+    rgba(24, 69, 134, 1);
+}
+
+
+.event-calendar button:hover{
+    background-color: rgba(24, 69, 134, 1);
+    color: white;
+    transition: all ease 0.7s;
+}
+
+.section6{
+    margin-top: 80px;
+    background-image: url(./img/Section.png);
+    background-color: #152d4c77;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+ footer iframe{
+    width: 1170px;
+    height: 600px;
+}
+
+
+footer{
+    height: 800px;
+    background-color:#152D4C;
+    color: white;
+}
+
+
+.futer1 h1{
+    padding: 150px 200px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.inputs{
+    margin: -30px 166px;
+}
+.section6 input{
+    border: 1px solid black;
+    background-color: transparent;
+    width: 500px;
+    height: 80px;
+    margin-left: 20px;
+}
+
+.section6 input::placeholder{
+    color: black;
+    padding-left: 20px;
+}
+
+.section6 button{
+    width: 500px;
+    height: 80px;
+    background-color: #373435;
+    color: yellow;
+    margin-left: 20px;
+}
+.futer2{
+    display: flex;
+    padding: 100px 40px;
+    height: 600px;
+}
+
+.col2{
+    margin-left: 150px;
+    width: 400px;
+    font-size: 22px;
+    height: 500px;
+}
+.col2 li {
+    margin-bottom: 10px;
+}
+
+.social{
+    margin:15px 700px;
+    width: 440px;
+    color: #152D4C;
+    text-align: center;
+}
+
+.social p{
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.social h1{
+    font-weight: 800;
+}
+
+.topic{
+    color: yellow;
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-size: 45px;
+}
+
+.social i{
+    font-size: 30px;
+    margin-left: 10px;
+    
+}
+
+.col2 a:hover{
+    border-bottom: 2px solid rgb(209, 209, 11);
+}
+
+
+@media screen and (max-width: 800px){
+    .out{
+        margin-left: 230px;
+        position: absolute;
+        top: 600px;
+    }
+    .out h1{
+        font-size: 30px;
+    }
+    
+    .out button{
+        height: 42px;
+        width: 200px;
+    }
+
+    .out button:hover{
+        background-color: rgba(0, 0, 255, 0.862);
+        border: none;
+        color: white;
+        transition: none;
+    }
+
+    .about{
+        position: relative;
+        bottom: -10px;
+        float: right;
+        width: 300px;
+        margin-right: 90px;
+        
+    }
+    
+    .about h1{
+        font-size: 30px;
+        font-weight: 700;
+    }
+    
+    .utube iframe{
+        width:404px ;
+        height:254px;
+        margin-left: 30px;
+    }
+
+    .section3 h1{
+        font-size: 30px;
+        position: relative;
+        top: 130px;
+        left: 30px;
+        font-weight: 600;
+    }
+    
+    .swwiper {
+        width: 800px;
+        margin: 120px 30px;
+    }
+    
+    .swwiper svg{
+        width: 200px;
+    }
+
+    .page4{
+        display: block;
+        margin: 330px 100px;
+    }
+    
+    
+    .swiper swiper-container{
+        width: 300px;
+        height: 200px;
+    }
+    
+    
+    .tour{
+        font-size: 30px;
+    }
+
+    .calendar{
+        margin-left: 10px;
+        margin-top: 30px;
+        display: flex;
+    }
+    
+    .calendar2{
+        margin: 40px 10px;
+        display: flex;
+    }
+    
+    .event-calendar h1 {
+        font-size: 34px;
+        margin-left: 60px;
+    }
+
+    .quad1,.quad2, .quad3, .quad4{
+        border: 2px solid 
+        rgba(24, 69, 134, 1);
+        height: 55px;
+        width: 110px;
+        position: relative;
+        margin-right: 10px;
+    }
+
+    .event-calendar button{
+        width: 264px;
+        height: 46px;
+        margin-left: 70px;
+    }
+
+    
+.section6{
+    margin-top: 220px;
+    background-image: url(./img/Section.png);
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+ footer iframe{
+    width: 500px;
+    height: 300px;
+    margin: 100px 10px;
+}
+
+
+footer{
+    height: 1100px;
+    background-color:#152D4C;
+    color: white;
+}
+
+
+.futer1 h1{
+    padding: 150px 200px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.inputs{
+    margin: -130px 166px;
+}
+.section6 input{
+    width: 300px;
+    height: 30px;
+    margin-left: 20px;
+}
+
+
+
+.section6 button{
+    width: 300px;
+    height: 30px;
+    background-color: #373435;
+    color: yellow;
+    margin-left: 20px;
+}
+.futer2{
+    display: block;
+    padding: 100px 40px;
+    height: 600px;
+}
+
+.col2{
+    margin-left: 150px;
+    width: 400px;
+    font-size: 22px;
+    height: 500px;
+}
+.col2 li {
+    margin-bottom: 10px;
+}
+
+.social{
+    margin:15px 700px;
+    width: 440px;
+    color: #152D4C;
+    text-align: center;
+}
+
+.social p{
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.social h1{
+    font-weight: 800;
+}
+
+.topic{
+    color: yellow;
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-size: 45px;
+}
+
+.social i{
+    font-size: 30px;
+    margin-left: 10px;
+    
+}
+   
+    
+    
+}

@@ -386,7 +386,7 @@ footer{
         bottom: -10px;
         float: right;
         width: 300px;
-        margin-right: 90px;
+        margin-right: 60px;
         
     }
     
@@ -398,7 +398,6 @@ footer{
     .utube iframe{
         width:404px ;
         height:254px;
-        margin-left: 30px;
     }
 
     .section3 h1{

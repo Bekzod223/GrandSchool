@@ -467,7 +467,7 @@ footer{
     .event-calendar button{
         width: 214px;
         height: 46px;
-        margin-left: 6%;
+        margin-left: -6px;
     }
 
     

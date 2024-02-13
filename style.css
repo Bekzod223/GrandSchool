@@ -360,6 +360,11 @@ footer{
 
 
 @media screen and (max-width: 800px){
+    .navbar-end a{
+        font-size: 12px;
+        width: 200px;
+    }
+
     .out{
         margin-left: 230px;
         position: absolute;
@@ -386,7 +391,7 @@ footer{
         bottom: -10px;
         float: right;
         width: 300px;
-        margin-right: 460px;
+        margin-right: 60px;
         
     }
     
@@ -398,7 +403,7 @@ footer{
     .utube iframe{
         width:404px ;
         height:254px;
-        margin-left:100px
+        margin-left: -30px;
     }
 
     .section3 h1{
@@ -435,19 +440,19 @@ footer{
     }
 
     .calendar{
-        margin-left: 10px;
+        margin-left: -80px;
         margin-top: 30px;
         display: flex;
     }
     
     .calendar2{
-        margin: 40px 10px;
+        margin: 40px -80px;
         display: flex;
     }
     
     .event-calendar h1 {
         font-size: 34px;
-        margin-left: 60px;
+        margin-left: -20px;
     }
 
     .quad1,.quad2, .quad3, .quad4{
@@ -460,9 +465,9 @@ footer{
     }
 
     .event-calendar button{
-        width: 264px;
+        width: 214px;
         height: 46px;
-        margin-left: 70px;
+        margin-left: -60px;
     }
 
     
@@ -476,27 +481,27 @@ footer{
 }
 
  footer iframe{
-    width: 500px;
-    height: 300px;
-    margin: 100px 10px;
+    width: 300px;
+    height: 200px;
+    margin: 100px -20px;
 }
 
 
 footer{
-    height: 1100px;
+    height: 980px;
     background-color:#152D4C;
     color: white;
 }
 
 
 .futer1 h1{
-    padding: 150px 200px;
+    padding: 150px 20px;
     font-size: 30px;
     font-weight: 700;
 }
 
 .inputs{
-    margin: -130px 166px;
+    margin: -130px -16px;
 }
 .section6 input{
     width: 300px;
@@ -520,7 +525,7 @@ footer{
 }
 
 .col2{
-    margin-left: 150px;
+    margin-left: -10px;
     width: 400px;
     font-size: 22px;
     height: 500px;
@@ -530,7 +535,7 @@ footer{
 }
 
 .social{
-    margin:15px 700px;
+    margin:15px -70px;
     width: 440px;
     color: #152D4C;
     text-align: center;
@@ -549,12 +554,14 @@ footer{
     color: yellow;
     font-weight: 600;
     margin-bottom: 10px;
-    font-size: 45px;
+    font-size: 30px;
 }
 
 .social i{
     font-size: 30px;
     margin-left: 10px;
+    
+}
     
 }
    
